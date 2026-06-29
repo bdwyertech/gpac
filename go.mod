@@ -4,7 +4,7 @@ go 1.24.0
 
 require (
 	github.com/dop251/goja v0.0.0-20260106131823-651366fbe6e3
-	github.com/jellydator/ttlcache/v3 v3.4.0
+	github.com/jellydator/ttlcache/v3 v3.4.1
 )
 
 require (
